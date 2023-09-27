@@ -102,9 +102,5 @@ For common issues and solutions, please refer to the troubleshooting section in 
 ## 8. Acknowledgments
 [ValemTutorials](https://www.youtube.com/@ValemTutorials)
 
-
-## 9. Contact Information
-
-
 ---
 This updated documentation provides comprehensive guidance for users and developers on using and extending the VR Hands Project with Meta Quest 2 support. Follow the steps and guidelines to have an immersive VR experience with hand interactions using the Meta Touch controllers.
